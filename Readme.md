@@ -1,4 +1,4 @@
-# Adding BlackArch Tools to Arch Linux or Arch-based Systems
+# Adding BlackArch Repo to Arch Linux or Arch-based Systems
 
 ![image](https://github.com/ACHUX21/Tools-BlackArch/assets/130113878/438064a8-af1c-4965-b01f-3cea00a6507a)
 
